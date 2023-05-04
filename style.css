@@ -1,0 +1,42 @@
+body{
+            background-color: antiquewhite;
+        }
+        #id1{
+            background-color: lightgreen;
+            height: 55px;
+            width: 1200px;
+        }
+        #id2{
+        
+           
+           
+            display:flex;
+            
+            
+            
+        }
+        #id21{
+            background-color: springgreen;
+            height: 549px;
+            width: 200px;
+            display: inline-block;
+            border: 1px ;
+            
+        }
+            
+        
+        #id22{
+            background-color: antiquewhite;
+            height: 549px;
+            width: 990px;
+            display: inline-block;
+            border: 1px ;
+        }
+        #id3{
+            height: 55px;
+            width: 1200px;
+            border: 1px ;
+            background-color: firebrick;
+            display: inline-block;
+        }
+  
